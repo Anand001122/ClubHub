@@ -1,1 +1,1 @@
-# ClubHub
+**VIT ClubHub**
